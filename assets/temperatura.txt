@@ -1,0 +1,7 @@
+O fuso-horário está seguindo a região America/Sao_Paulo e a consulta foi efetuada em Thu - 30/06/2022 - 15:33
+O sol está nascendo às 07:03 e se pondo às 17:37
+A temperatura atual é de 19.0°C e a sensação térmica é de 18.0°C.
+A pressão está em 1.0atm e a umidade está em 39%, com UVI de 0.81.
+A velocidade do vento está em 2.57m/s e a direção está em 290 graus metereológicos.
+*** Detalhes do Clima: céu limpo
+*** Detalhes sobre chuva: None
