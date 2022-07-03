@@ -21,8 +21,8 @@ Projeto desenvolvido em Python para obter informações metereológicas para um 
 ## :hammer: Funcionalidades do projeto
 
 - `Geolocalização`: Obtenção de geolocalização à partir do endereço informado
-- `Clima`: Obtenção de dados metereológicos à partir do endereço informado
-- `Manipulação de documentos`: Criação de .txt com informações metereológicas
+- `Clima`: Obtenção de dados meteorológicos à partir do endereço informado
+- `Manipulação de documentos`: Criação de .txt com informações meteorológicas
 - `Mailing`: Envio de e-mail contendo as informações e documento .txt gerado
 
 ## 📁 Acesso ao projeto
