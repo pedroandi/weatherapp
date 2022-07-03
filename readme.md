@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/pypi/pyversions/requests?color=green&label=Python&logo=python&logoColor=blue&style=plastic"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/github/followers/b4ndo?label=Follow&logo=github&style=social"/>
+<img src="https://img.shields.io/github/followers/pedroandi?label=Follow&logo=github&style=social"/>
 </p>
 
 ## Índice 
